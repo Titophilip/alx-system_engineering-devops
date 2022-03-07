@@ -1,1 +1,1 @@
-A collection of scriptsfor redirection tasks
+Scripts for redirection task given by ALX.
